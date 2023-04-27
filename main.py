@@ -1,6 +1,6 @@
 import os
 import time
-from Extension.ina219 import logUPSStatus
+from extension.ina219 import logUPSStatus
 
 from machine import Pin
 
